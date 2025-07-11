@@ -1,0 +1,7 @@
+2025-07-11 02:07:01,924 - WARNING - Invalid row or seat range. row=V, start_index=2, count=2
+2025-07-11 02:07:41,611 - WARNING - Invalid row or seat range. row=V, start_index=2, count=2
+2025-07-11 02:10:39,836 - WARNING - Invalid seat or count format. seat=a, count=2
+2025-07-11 02:16:52,378 - WARNING - Invalid number of arguments. Expected 3 CLI arguments, got 1
+2025-07-11 02:17:28,311 - WARNING - Invalid number of arguments. Expected 3 CLI arguments, got 1
+2025-07-11 02:18:04,443 - WARNING - Invalid number of arguments. Expected 3 CLI arguments, got 1
+2025-07-11 09:56:18,893 - WARNING - Invalid action or non-positive count. action=BOOK, count=0
